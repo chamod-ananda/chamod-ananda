@@ -16,7 +16,7 @@
 
 - 👨‍💻 I'm an Ungergraduate at IJSE
 
-- 👨‍💻 All of my projects are available at portfolio-chamodananda.netlify.app
+- 👨‍💻 All of my projects are available at [portfolio-chamodananda.netlify.app](https://portfolio-chamodananda.netlify.app)
 
 - 💬 Ask me about **Java**
 
